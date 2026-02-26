@@ -50,6 +50,8 @@ Organização visual separando:
 
 Elementos não pertencentes ao framework também são apresentados para fins didáticos de contraste.
 
+![Descrição da imagem](classificacao_scrum.png)
+
 ---
 
 ### 3️⃣ Diagrama Completo do Framework Scrum
@@ -61,6 +63,8 @@ Representação visual integrada contendo:
 - Fluxo entre Product Backlog → Sprint Backlog → Incremento
 - Interação entre os papéis do Scrum Team
 - Inspeção e adaptação contínuas
+
+![Descrição da imagem](framework_completo.png)
 
 ---
 
