@@ -16,6 +16,8 @@ Mapa mental contendo:
 - Inspeção
 - Adaptação
 
+[Descrição da imagem](imagens/pilares_valores.png)
+
 **Valores do Scrum**
 - Comprometimento
 - Foco
