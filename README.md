@@ -85,11 +85,3 @@ Este material foi criado com finalidade:
 Todo o conteúdo está alinhado ao **Scrum Guide (2020)**, documento oficial de referência do framework.
 
 ---
-
-## 📂 Estrutura
-
-/imagens
-    pilares_valores.png
-    classificacao_scrum.png
-    framework_completo.png
-README.md
